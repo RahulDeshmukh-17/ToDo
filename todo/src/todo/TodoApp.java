@@ -96,7 +96,7 @@ public class TodoApp {
             System.out.println("1. Add a new task");
             System.out.println("2. Mark a task as done");
             System.out.println("3. Delete a task");
-            System.out.println("4. Exit123");
+            System.out.println("4. Exit");
             System.out.print("Choose an option: ");
 
             int choice = scanner.nextInt();
